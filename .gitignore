@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+backend/astra.db
+node_modules/
+.next/
+test_output.txt
