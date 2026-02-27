@@ -52,5 +52,4 @@ It converts Python source code into an Abstract Syntax Tree (AST), flattens the 
 - Add batch processing to compare a single file against an entire database of past submissions.
 - Integrate Role-Based Access Control (RBAC) for Professor and Student views.
 
-## Author
-Aryan Tiwari [Link to your LinkedIn/Portfolio]
+
